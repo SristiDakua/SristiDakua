@@ -2,7 +2,7 @@
 👩🏻‍💻 A Software Engineering Student sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying Information Technology at Jadavpur University<br/>
 🎨 Building projects in web dev, open source, and productivity tools<br/>
-🌷 #learninginpublic in my [portfolio site](https://yourwebsite.com)<br/>
+🌷 #learninginpublic in my [portfolio site](https://sristiverse.netlify.app/)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=SristiDakua&show_icons=true&locale=en&layout=compact)<br/>
 
