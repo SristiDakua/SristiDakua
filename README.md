@@ -39,8 +39,8 @@
 
 ## 🎨 UI Design
 <a href="https://www.figma.com/design/osTWAQB6g7tJaaK8Wj5h0u/Sristi----Weather_App_Project?node-id=9-2&t=BGk0M7K1Szjluz8H-1" target="_blank">
-  <img src="WeatherApp_UI.png" alt="Design 1" width="450" style="border-radius: 10px; margin: 5px;">
+  <img src="WeatherApp_UI.png" alt="Design 1" width="430" style="border-radius: 10px; margin: 5px;">
 </a>
 <a href="https://www.figma.com/design/VGzNoIIvwv7hQqvkXAVBUk/Sristi---MovieTicketBooking_App?node-id=0-1&t=BGk0M7K1Szjluz8H-1" target="_blank">
-  <img src="MovieTicketBookingApp_UI.png" alt="Design 2" width="540" style="border-radius: 10px; margin: 5px;">
+  <img src="MovieTicketBookingApp_UI.png" alt="Design 2" width="520" style="border-radius: 10px; margin: 5px;">
 </a>
