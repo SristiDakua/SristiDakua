@@ -45,4 +45,5 @@
   <img src="MovieTicketBookingApp_UI.png" alt="Design 2" width="520" style="border-radius: 10px; margin: 5px;">
 </a>
 
+# 📛 Holopin badges
 [![An image of @sristidakua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sristidakua)](https://holopin.io/@sristidakua)
