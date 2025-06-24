@@ -44,3 +44,6 @@
 <a href="https://www.figma.com/design/VGzNoIIvwv7hQqvkXAVBUk/Sristi---MovieTicketBooking_App?node-id=0-1&t=BGk0M7K1Szjluz8H-1" target="_blank">
   <img src="MovieTicketBookingApp_UI.png" alt="Design 2" width="520" style="border-radius: 10px; margin: 5px;">
 </a>
+
+
+[![An image of @sristidakua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sristidakua)](https://holopin.io/@sristidakua)
