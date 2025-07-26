@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sristi Dakua!
+# 👋 Hi, I'm Sristi Dakua
 👩🏻‍💻 A Software Engineering Student sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying Information Technology at Jadavpur University<br/>
 🧑‍🎨 Building projects in web dev, open source, and productivity tools<br/>
