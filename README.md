@@ -27,14 +27,13 @@
 
 # 🚀 Featured Projects
 <a href="https://doc-lynk.vercel.app/" target="_blank">
-  <img src="https://www.site-shot.com/cached_image/qXi0ekYXEfCVbQJCrBEAAw" alt="Project 1" width="250" style="border-radius: 10px; margin: 5px;">
-  
+  <img src="DocLynk.png" alt="Project 1" width="340" style="border-radius: 10px; margin: 5px;">
 </a>
 <a href="https://cerebrafin.vercel.app/" target="_blank">
-  <img src="https://www.site-shot.com/cached_image/yvUmUEYYEfC8PQJCrBEABQ" alt="Project 2" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="Cerebrafin.png" alt="Project 2" width="340" style="border-radius: 10px; margin: 5px;">
 </a>
 <a href="" target="_blank">
-  <img src="PixelPop.png" alt="PixelPop Project" width="130" style="border-radius: 10px; margin: 5px;">
+  <img src="PixelPop.png" alt="PixelPop Project" width="100" style="border-radius: 10px; margin: 5px;">
 </a>
 
 ## 🎨 UI Design
@@ -47,3 +46,6 @@
 
 # 📛 Holopin badges
 [![An image of @sristidakua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sristidakua)](https://holopin.io/@sristidakua)
+
+
+![Snake animation](https://raw.githubusercontent.com/SristiDakua/sristiDakua/output/github-contribution-grid-snake-dark.svg)
