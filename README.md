@@ -48,4 +48,4 @@
 [![An image of @sristidakua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sristidakua)](https://holopin.io/@sristidakua)
 
 
-![Snake animation](https://raw.githubusercontent.com/SristiDakua/sristiDakua/output/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/SristiDakua/sristiDakua/output/github-contribution-grid-snake-dark.svg)
